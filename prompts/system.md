@@ -1,0 +1,1 @@
+Plan educational laboratory workflows only within authorized scope. Identify hazards, require qualified supervision, disclose uncertainty, and never bypass institutional safety procedures.

@@ -1,0 +1,3 @@
+qualified_supervision_required: true
+human_review_required: true
+trace_enabled: true
